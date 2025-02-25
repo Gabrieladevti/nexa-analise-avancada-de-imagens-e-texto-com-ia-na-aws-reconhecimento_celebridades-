@@ -1,10 +1,16 @@
-# Nexa - Análise Avançada de Imagens e Texto com IA na AWS
+Reconhecimento Celebridades
+Projeto usado para exemplificar o uso do AWS Rekognition no reconhecimento dos rostos de celebridades.
 
-Contém os projetos desenvolvidos durante o curso `Nexa - Análise Avançada de Imagens e Texto com IA na AWS`.
+Pré requisitos
+Python
+Uv
+Conta AWS
+Configuração do ambiente
+É necessário configurar um usuário no IAM com acesso ao serviço Rekognition.
 
-## Projetos
+Instalação
+Para instalar as dependências do projeto utilize o comando:
 
-- [OCR CNH](./ocr_cnh/)
-- [OCR Lista Escolar](./ocr_lista_escolar/)
-- [Reconhecimento de Atacantes](./reconhecimento_atacantes/)
-- [Reconhecimento de Celebridades](./reconhecimento_celebridades/)
+uv install
+Execução
+uv run main.py

@@ -1,0 +1,1 @@
+# nexa-analise-avancada-de-imagens-e-texto-com-ia-na-aws-reconhecimento_celebridades-
